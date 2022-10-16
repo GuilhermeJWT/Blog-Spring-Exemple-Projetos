@@ -1,7 +1,7 @@
 cloud:
   aws:
     region:
-      static: ap-south-1
+      static: us-east-1
       auto: false
     credentials:
       access-key: YOU_CREDENTIALS
