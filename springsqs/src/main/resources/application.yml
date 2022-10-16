@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: YOU_CREDENTIALS
+      secret-key: YOU_CREDENTIALS
+    end-point:
+      uri:
